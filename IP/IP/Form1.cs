@@ -29,7 +29,7 @@ namespace IP
                     //break;
                 }
             }
-
+            myIp = "";
             foreach(string resultIp in ipArray)//通过经验发现i-hdu分配的ip几乎是以10.开头，暂时没有其他办法，有更好的办法会改进
             {
                 if(resultIp.StartsWith("10."))
@@ -40,7 +40,7 @@ namespace IP
             }
             
 
-            MessageBox.Show(myIp);
+            //MessageBox.Show(myIp);
             System.Diagnostics.Process.Start("http://192.168.2.165/portal/logon.htm?userip=" + myIp);//用默认浏览器打开
             this.Close();
         }
