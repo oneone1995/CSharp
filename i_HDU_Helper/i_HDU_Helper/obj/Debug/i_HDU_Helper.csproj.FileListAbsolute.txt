@@ -1,0 +1,12 @@
+E:\C#\i_HDU_Helper\i_HDU_Helper\bin\Debug\i_HDU_Helper.exe.config
+E:\C#\i_HDU_Helper\i_HDU_Helper\obj\Debug\i_HDU_Helper.csprojResolveAssemblyReference.cache
+E:\C#\i_HDU_Helper\i_HDU_Helper\obj\Debug\i_HDU_Helper.Form1.resources
+E:\C#\i_HDU_Helper\i_HDU_Helper\obj\Debug\i_HDU_Helper.Properties.Resources.resources
+E:\C#\i_HDU_Helper\i_HDU_Helper\obj\Debug\i_HDU_Helper.csproj.GenerateResource.Cache
+E:\C#\i_HDU_Helper\i_HDU_Helper\bin\Debug\i_HDU_Helper.exe
+E:\C#\i_HDU_Helper\i_HDU_Helper\bin\Debug\i_HDU_Helper.pdb
+E:\C#\i_HDU_Helper\i_HDU_Helper\obj\Debug\i_HDU_Helper.exe
+E:\C#\i_HDU_Helper\i_HDU_Helper\obj\Debug\i_HDU_Helper.pdb
+F:\半岛铁盒\Github\Csharp\i_HDU_Helper\i_HDU_Helper\bin\Debug\i_HDU_Helper.exe.config
+F:\半岛铁盒\Github\Csharp\i_HDU_Helper\i_HDU_Helper\obj\Debug\i_HDU_Helper.exe
+F:\半岛铁盒\Github\Csharp\i_HDU_Helper\i_HDU_Helper\obj\Debug\i_HDU_Helper.pdb
